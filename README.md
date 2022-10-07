@@ -3,6 +3,8 @@ This project aims to simplify and guide the way beginners make their first contr
 
 ## Fork this repository
 
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
