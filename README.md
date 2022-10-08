@@ -72,3 +72,11 @@ Now commit those changes using the `git commit` command:
 git commit -m "Add <your-name> to Contributors list"
 ```
 replacing `<your-name>` with your name.
+
+## Push changes to GitHub
+
+Push your changes using the command `git push`:
+```
+git push origin <add-your-branch-name>
+```
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
